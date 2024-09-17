@@ -18,21 +18,13 @@
         android:textStyle="bold"/>
 
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rv"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@android:color/white"
-        android:layout_weight="1"/>
-
-<!--    <android.widget.Button-->
-<!--        android:id="@+id/button1"-->
-<!--        android:layout_gravity="center_horizontal"-->
-<!--        android:layout_width="320dp"-->
+<!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:id="@+id/rv"-->
+<!--        android:layout_width="match_parent"-->
 <!--        android:layout_height="wrap_content"-->
-<!--        android:layout_marginTop="30dp"-->
-<!--        android:background="@drawable/button"-->
-<!--        android:text="신청하기"-->
-<!--        android:textColor="@color/black"/>-->
+<!--        android:background="@android:color/white"-->
+<!--        android:layout_weight="1"/>-->
+
+
 
 </LinearLayout>
